@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="visual"
+   viewBox="0 0 1440 900"
+   width="1440"
+   height="900"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <linearGradient
+       id="linearGradient4574">
+      <stop
+         style="stop-color:#e52323;stop-opacity:1"
+         offset="0"
+         id="stop4570" />
+      <stop
+         style="stop-color:#7f0f0f;stop-opacity:1"
+         offset="1"
+         id="stop4572" />
+    </linearGradient>
+    <filter
+       id="blur1"
+       x="-10%"
+       y="-10%"
+       width="120%"
+       height="120%"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood2" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend4" />
+      <feGaussianBlur
+         stdDeviation="252"
+         result="effect1_foregroundBlur"
+         id="feGaussianBlur6" />
+    </filter>
+    <linearGradient
+       xlink:href="#linearGradient4574"
+       id="linearGradient4576"
+       x1="29.237587"
+       y1="47.832985"
+       x2="1361.203"
+       y2="803.125"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.1405001)" />
+  </defs>
+  <rect
+     style="fill:url(#linearGradient4576);fill-opacity:1;stroke:none;stroke-width:14.49568081;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4568"
+     width="1440"
+     height="900"
+     x="0"
+     y="-1.5258789e-05" />
+</svg>
